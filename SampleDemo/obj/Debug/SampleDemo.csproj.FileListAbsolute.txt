@@ -1,0 +1,7 @@
+A:\.Net\SampleDemo\SampleDemo\bin\Debug\SampleDemo.exe.config
+A:\.Net\SampleDemo\SampleDemo\bin\Debug\SampleDemo.exe
+A:\.Net\SampleDemo\SampleDemo\bin\Debug\SampleDemo.pdb
+A:\.Net\SampleDemo\SampleDemo\obj\Debug\SampleDemo.csproj.AssemblyReference.cache
+A:\.Net\SampleDemo\SampleDemo\obj\Debug\SampleDemo.csproj.CoreCompileInputs.cache
+A:\.Net\SampleDemo\SampleDemo\obj\Debug\SampleDemo.exe
+A:\.Net\SampleDemo\SampleDemo\obj\Debug\SampleDemo.pdb
